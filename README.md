@@ -6,9 +6,10 @@
 
 ```markdown
 Syntax highlighted code block
-#Project One
+```
+## Project 1 – Build A Static Website 
 
-https://humairaq.github.io/SWE-Project-One/
+[Informative Travel Theme Website](https://humairaq.github.io/SWE-Project-One/)
 ```
 
 
