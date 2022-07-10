@@ -1,11 +1,3 @@
-
-
-
-
-
-
-```markdown
-Syntax highlighted code block
 ```
 ## Project 1 – Build A Static Website 
 
